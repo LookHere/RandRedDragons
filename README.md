@@ -182,5 +182,5 @@ it strengthens everyone's fundamental understanding of how statistics works.
 # Roadmap
 
 - [X] Develop a structure
-- [] Create something where your health modifies certain actions
-- [] Develop a prompt creator that takes the actions in the game and uses Ai to express them in fun ways. Take the universe and character descriptions, add the items they hold, and the actions they took to develop a prompt for Ai to create a story or image.
+- [ ] Create something where your health modifies certain actions
+- [ ] Develop a prompt creator that takes the actions in the game and uses Ai to express them in fun ways. Take the universe and character descriptions, add the items they hold, and the actions they took to develop a prompt for Ai to create a story or image.
