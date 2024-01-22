@@ -177,3 +177,10 @@ odds between 1 and 6.  But rolling 2d6 increases the odds to the center.  By put
 
 It also helps create one system for managing everything (working a lot more like a video game) and
 it strengthens everyone's fundamental understanding of how statistics works.
+
+
+# Roadmap
+
+- [X] Develop a structure
+- [] Create something where your health modifies certain actions
+- [] Develop a prompt creator that takes the actions in the game and uses Ai to express them in fun ways. Take the universe and character descriptions, add the items they hold, and the actions they took to develop a prompt for Ai to create a story or image.
